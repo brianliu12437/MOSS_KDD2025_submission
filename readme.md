@@ -1,0 +1,1 @@
+Anonymous Repository for KDD 2025 submission MOSS: Multi-Objective Optimization for Stable Rule Sets. Experiment code contained in python notebooks. A full implementation of MOSS will be made available after review.
